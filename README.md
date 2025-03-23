@@ -1,5 +1,4 @@
 # AI_In_Healthcare_Final
-# AI in Healthcare Project - ESSEC DSBA Course
 
 ## Objective
 The goal of this project is to explore how Natural Language Processing (NLP) and Large Language Models (LLM) can be applied to extract ideas from medical prescriptions. This project is divided into two parts:
@@ -9,7 +8,19 @@ The goal of this project is to explore how Natural Language Processing (NLP) and
 
 ## Project Structure
 
-
+├── requirement.txt
+├── README.md
+└─Reproduction of Article
+    ├─01 Documents
+    ├─02 Reference Papers
+    ├─03 Code
+    │  ├─.ipynb_checkpoints
+    │  └─__pycache__
+    └─04 Generated File
+        └─meddec-mimic-iii
+            ├─data
+            └─raw_text
+            
 ## Setup and Installation
 
 ### Step 1: Install Dependencies
