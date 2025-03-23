@@ -1,0 +1,16 @@
+aim
+nltk
+numpy
+quickumls
+scikit-learn
+seqeval
+spacy
+torch
+tqdm
+transformers
+pydantic
+pandas
+accelerate
+
+
+
