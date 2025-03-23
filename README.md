@@ -38,7 +38,7 @@ To set up the project, install the necessary dependencies listed in the `require
 This will automatically install all required packages, and pip will resolve any version conflicts.
 
 ### Step 2: Reproduction of the Paper
-Due to limited computing resources, even after successfully implementing the feature engineering, data preprocessing, and model training/evaluation, the results may still underperform. To adapt the process for Colab, we've modified the original code and migrated it to a notebook stored in the /code folder.
+Due to limited computing resources, even after successfully implementing the feature engineering, data preprocessing, and model training/evaluation, the results may still underperform. To adapt the process for Colab, we've modified the original code and migrated it to a notebook stored in the /code folder ('medDec_FINAL.ipynb').
 
 All other necessary files and packages are included and imported as needed (these are already handled within the notebook).
 
