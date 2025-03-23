@@ -8,7 +8,20 @@ The goal of this project is to explore how Natural Language Processing (NLP) and
 
 ## Project Structure
 
-<pre> ``` ├─ LLM └─ Reproduction of Article ├─ 01 Documents ├─ 02 Reference Papers ├─ 03 Code │ ├─ .ipynb_checkpoints │ └─ __pycache__ └─ 04 Generated File └─ meddec-mimic-iii ├─ data └─ raw_text ``` </pre>
+<pre> ``` 
+├── requirement.txt
+├── README.md
+├─LLM
+└─Reproduction of Article
+    ├─01 Documents
+    ├─02 Reference Papers
+    ├─03 Code
+    │  ├─.ipynb_checkpoints
+    │  └─__pycache__
+    └─04 Generated File
+        └─meddec-mimic-iii
+            ├─data
+            └─raw_text``` </pre>
             
 ## Setup and Installation
 
